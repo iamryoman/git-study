@@ -1,0 +1,13 @@
+body {
+    padding-top: 20px;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    border-radius: 0.3rem;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    color: #007bff;
+}
